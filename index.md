@@ -21,3 +21,13 @@ Exploring Graph-based Retrieval-Augmented Generation — from foundational conce
 | 7 | [Why Gold Answers Are Becoming Less Important in GraphRAG Systems](graphrag/2026-05-12-gold-answer-losing-importance.md) | 2026-05-12 | `gold-answer` `graphrag` `rag-evaluation` `llm-as-judge` `knowledge-graph` `human-annotation` `evaluation-metrics` |
 | 8 | [GraphRAG Local Search Text Unit Selection Strategy: Design Trade-offs and Improvement Directions](graphrag/local-search-text-unit-selection.md) | — | `graphrag` `local-search` `text-unit` `context-window` `multi-objective-optimization` `retrieval-strategy` `rag` `knowledge-graph` |
 | 9 | [Orphan Communities in GraphRAG Hierarchical Clustering: Why Some Communities Have No PARENT_OF Edges](graphrag/2026-05-20-community-orphan-no-parent-of.md) | 2026-05-20 | `graphrag` `leiden-algorithm` `community-detection` `hierarchical-clustering` `knowledge-graph` `modularity` `rag` |
+
+---
+
+### [FalkorDB](falkordb/)
+
+Deep dives into FalkorDB's architecture — sparse matrix edge storage, GraphBLAS internals, and performance characteristics compared to traditional graph databases.
+
+| # | Post | Date | Topics |
+|---|------|------|--------|
+| 1 | [How FalkorDB Stores Edges: Why Neighbor Lookup Is O(degree)](falkordb/how-falkordb-maintain-edge.md) | — | `FalkorDB` `sparse-matrix` `graph-database` `GraphBLAS` `CSR` `adjacency-list` `edge-storage` `graph-traversal-performance` |
