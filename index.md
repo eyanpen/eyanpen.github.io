@@ -22,6 +22,7 @@ Exploring Graph-based Retrieval-Augmented Generation — from foundational conce
 | 8 | [GraphRAG Local Search Text Unit Selection Strategy: Design Trade-offs and Improvement Directions](graphrag/local-search-text-unit-selection.md) | — | `graphrag` `local-search` `text-unit` `context-window` `multi-objective-optimization` `retrieval-strategy` `rag` `knowledge-graph` |
 | 9 | [Orphan Communities in GraphRAG Hierarchical Clustering: Why Some Communities Have No PARENT_OF Edges](graphrag/2026-05-20-community-orphan-no-parent-of.md) | 2026-05-20 | `graphrag` `leiden-algorithm` `community-detection` `hierarchical-clustering` `knowledge-graph` `modularity` `rag` |
 | 10 | [Known Pitfall in DeepEval Faithfulness Metric: "idk" Verdicts Don't Penalize the Score](graphrag/deepeval-faithfulness-metric-pitfall.md) | — | `deepeval` `faithfulness` `rag-evaluation` `evaluation-metrics` `graphrag` `hallucination` `groundedness` `llm-as-judge` |
+| 11 | [The "Ghost Clone" of Community Reports in GraphRAG: Why the Same Report Gets Created Twice](graphrag/2026-05-26-community-report-duplicate-has-report.md) | 2026-05-26 | `graphrag` `community-report` `leiden-algorithm` `hierarchical-clustering` `graph-database` `cartesian-product` `data-import` `deduplication` |
 
 ---
 
