@@ -26,6 +26,16 @@ Exploring Graph-based Retrieval-Augmented Generation — from foundational conce
 
 ---
 
+### [LLM](llm/)
+
+Deep dives into LLM inference internals — KV Cache mechanics, prefix caching, token economics, and optimal conversation strategies for agentic systems.
+
+| # | Post | Date | Topics |
+|---|------|------|--------|
+| 1 | [Don't Rush to Clear History — Understanding KV Cache Will Change How You Think About LLM Conversation Strategy](llm/agentic-loop-message-strategy.md) | 2026-06-09 | `KV-Cache` `LLM-Inference-Optimization` `Prefix-Caching` `Agentic-Loop` `Multi-Turn-Conversation-Strategy` `Token-Pricing` `vLLM` `Transformer-Attention` |
+
+---
+
 ### [FalkorDB](falkordb/)
 
 Deep dives into FalkorDB's architecture — sparse matrix edge storage, GraphBLAS internals, and performance characteristics compared to traditional graph databases.
