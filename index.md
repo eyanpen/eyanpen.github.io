@@ -65,6 +65,7 @@ Design trade-offs in building AI agents — why many popular agents hand-roll th
 | # | Post | Date | Topics |
 |---|------|------|--------|
 | 1 | [Design Trade-offs: Why Hermes (and Many Popular Agents) Don't Use LangChain / LangGraph](agent/design-tradeoffs-no-framework.md) | — | `agent-loop` `LangChain` `LangGraph` `supply-chain-security` `dependency-minimization` `AI-Agent-architecture` `design-tradeoffs` |
+| 2 | [ReAct Inside — From Message to State, Understanding How AI Agents Really Work](agent/react-inside.md) | — | `ReAct` `Function-Calling` `Tool-Calling` `agent-state-machine` `LLM-reasoning` `Thought-Action-Observation` `AI-Agent` |
 
 ---
 
