@@ -54,3 +54,24 @@ Cloud-native runtime technologies — sandbox isolation modes, container interna
 | # | Post | Date | Topics |
 |---|------|------|--------|
 | 1 | [Runtime Backends: A Deep Dive into qwrap vs Container Isolation Modes](cloud/runtime-qwrap-vs-container.md) | — | `sandbox` `container` `bubblewrap` `namespace` `isolation` `runtime` `docker` `cloud-native` |
+
+
+---
+
+### [Agent](agent/)
+
+Design trade-offs in building AI agents — why many popular agents hand-roll their core loop instead of using heavyweight frameworks, and how dependency minimization ties into supply-chain security.
+
+| # | Post | Date | Topics |
+|---|------|------|--------|
+| 1 | [Design Trade-offs: Why Hermes (and Many Popular Agents) Don't Use LangChain / LangGraph](agent/design-tradeoffs-no-framework.md) | — | `agent-loop` `LangChain` `LangGraph` `supply-chain-security` `dependency-minimization` `AI-Agent-architecture` `design-tradeoffs` |
+
+---
+
+### [Security](security/)
+
+Software supply-chain security in the AI era — dissecting real-world worm incidents, CI/CD poisoning, OIDC abuse, and the practical defenses developers can adopt today.
+
+| # | Post | Date | Topics |
+|---|------|------|--------|
+| 1 | [The Mini Shai-Hulud Worm Incident: A "Sandworm Storm" That Rewrote the Rules of Supply-Chain Trust](security/mistralai-event.md) | — | `mini-shai-hulud` `supply-chain-attack` `software-supply-chain-security` `npm` `pypi` `oidc` `ci-cd-poisoning` `ai-security` |
