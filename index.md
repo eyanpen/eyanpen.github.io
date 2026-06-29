@@ -33,6 +33,7 @@ Deep dives into LLM inference internals — KV Cache mechanics, prefix caching, 
 | # | Post | Date | Topics |
 |---|------|------|--------|
 | 1 | [Don't Rush to Clear History — Understanding KV Cache Will Change How You Think About LLM Conversation Strategy](llm/agentic-loop-message-strategy.md) | 2026-06-09 | `KV-Cache` `LLM-Inference-Optimization` `Prefix-Caching` `Agentic-Loop` `Multi-Turn-Conversation-Strategy` `Token-Pricing` `vLLM` `Transformer-Attention` |
+| 2 | [Does Your AI Agent Need Prompt Protection? A Practical Decision Guide](llm/prompt-protection-when-needed.md) | 2026-06-28 | `prompt-injection` `AI-Agent-security` `threat-model` `least-privilege` `human-in-the-loop` `LLM` |
 
 ---
 
