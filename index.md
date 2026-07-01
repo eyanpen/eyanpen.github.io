@@ -44,6 +44,7 @@ Deep dives into FalkorDB's architecture — sparse matrix edge storage, GraphBLA
 | # | Post | Date | Topics |
 |---|------|------|--------|
 | 1 | [How FalkorDB Stores Edges: Why Neighbor Lookup Is O(degree)](falkordb/how-falkordb-maintain-edge.md) | — | `FalkorDB` `sparse-matrix` `graph-database` `GraphBLAS` `CSR` `adjacency-list` `edge-storage` `graph-traversal-performance` |
+| 2 | [A FalkorDB Vector Search Gotcha: Why Won't db.idx.vector.queryNodes Work?](falkordb/vector-index-query-nodes-prerequisites.md) | — | `falkordb` `vector-search` `vector-index` `ann` `vecf32` `graphrag` `graph-database` `embedding` |
 
 ---
 
