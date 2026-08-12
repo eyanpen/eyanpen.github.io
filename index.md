@@ -78,3 +78,13 @@ Software supply-chain security in the AI era — dissecting real-world worm inci
 | # | Post | Date | Topics |
 |---|------|------|--------|
 | 1 | [The Mini Shai-Hulud Worm Incident: A "Sandworm Storm" That Rewrote the Rules of Supply-Chain Trust](security/mistralai-event.md) | — | `mini-shai-hulud` `supply-chain-attack` `software-supply-chain-security` `npm` `pypi` `oidc` `ci-cd-poisoning` `ai-security` |
+
+---
+
+### [PDF](pdf/)
+
+Practical engineering trade-offs in manipulating PDFs — how text, glyphs, fonts, and layout are layered, and how to choose the right approach for tasks like traditional-to-simplified Chinese conversion.
+
+| # | Post | Date | Topics |
+|---|------|------|--------|
+| 1 | [Converting Traditional Chinese to Simplified in PDFs: Why We Ended Up With a "Combined Approach"](pdf/pdf-traditional-to-simplified-approach-tradeoffs.md) | — | `pdf` `traditional-to-simplified` `opencc` `font-processing` `pymupdf` `technical-decision` `engineering-practice` |
